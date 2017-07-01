@@ -1,0 +1,19 @@
+.main {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.map-container {
+  height: 100%;
+}
+
+.toolbar {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  z-index: 100;
+}
+
+.area-buttons {
+  display: inline-block;
+}
